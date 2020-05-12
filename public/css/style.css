@@ -1,0 +1,77 @@
+
+@font-face {
+    font-family: 'mifuente';
+    src:url(../fonts/ProductSans-Regular.ttf);
+}
+
+.image-container{
+
+    width: 950px; 
+    max-height: 400px;
+    overflow: hidden;
+    margin: 0 auto;
+
+}
+.footer{
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    width:100%;
+
+}
+.editar{
+    width: 50px; 
+    height: 50px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+body{
+    background-color: #DBD1D1 !important;
+    font-family: 'mifuente';
+
+}
+.colorfondo{
+    background-color: #DBD1D1 !important;
+}
+.colorbarra{
+    background-color: #6E0F34 !important;
+}
+#BarraFooter{
+    background-color: #6E0F34 !important;
+
+}
+
+.letrasNav{
+    color: #F6D425 !important;
+}
+/*color amarillo #FFEF9C*/
+.letras{
+    color: #6E0F34 !important;
+}
+.letras-link{
+    color: #A60D48;
+}
+.letras-link:hover{
+    color: #A60D48;
+    text-decoration: underline;
+}
+.card-body{
+    background-color: #D1B5B5 !important;
+}
+.card-header{ 
+    background-color: #6E0F34 !important;
+}
+.detalles{
+
+    margin: 0px auto;
+
+}
+.star img{
+    width: 25px;
+}
+.star{
+    padding: 0px;
+    padding-bottom: 0px;
+    padding-top:  0px;
+}

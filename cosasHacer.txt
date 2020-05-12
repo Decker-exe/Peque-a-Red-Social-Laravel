@@ -1,0 +1,32 @@
+-Impresindible
+loguearse
+registrar
+Subir B
+    Tiene:
+    Imagen
+    Descripcion
+Commentarios
+Buscar por nombre
+Ver B
+-Tier 1
+Una ves creado editar B
+Subir B
+    Horario
+    Calificacion
+Filtro
+    horario
+    Calificacion
+-tier 2
+Subir B
+    Musica
+    direccion
+Usar tu dirrecion para elegir por zona
+Filtro
+    Zona
+    Musica
+
+
+    
+
+
+
